@@ -1,0 +1,1149 @@
+
+┏━━━━━━━━━━━━━━━━━━━━━━━┓
+┃Initializing eww daemon┃
+┗━━━━━━━━━━━━━━━━━━━━━━━┛
+    
+ 2024-03-12T14:37:18.129Z [0m[32mINFO [0m [0m[1meww::app   [0m > Opening window bar as 'bar'
+ 2024-03-12T14:37:18.129Z [0m[32mINFO [0m [0m[1meww::ipc_server[0m > IPC server initialized
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:78:13
+   [0m[34m│[0m
+[0m[34m78[0m [0m[34m│[0m               :value [0m[31mcurrent-volume[0m 
+   [0m[34m│[0m                      [0m[31m──────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+ 2024-03-12T14:37:18.212Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 16: bspc: comando non trovato
+ 2024-03-12T14:37:18.219Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 17: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+ 2024-03-12T14:37:18.225Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 18: bspc: comando non trovato
+ 2024-03-12T14:37:18.232Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 19: bspc: comando non trovato
+ 2024-03-12T14:37:18.237Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 20: bspc: comando non trovato
+ 2024-03-12T14:37:18.244Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 21: bspc: comando non trovato
+ 2024-03-12T14:37:18.249Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 24: bspc: comando non trovato
+ 2024-03-12T14:37:18.257Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 25: bspc: comando non trovato
+ 2024-03-12T14:37:18.262Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 26: bspc: comando non trovato
+ 2024-03-12T14:37:18.267Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 27: bspc: comando non trovato
+ 2024-03-12T14:37:18.273Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 28: bspc: comando non trovato
+ 2024-03-12T14:37:18.277Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 29: bspc: comando non trovato
+ 2024-03-12T14:37:18.281Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 43: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+scripts/popup: riga 28: /home/flavio/.local/bin/launcher: File o directory non esistente
+scripts/popup: riga 28: /home/flavio/.local/bin/launcher: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:55:17
+   [0m[34m│[0m
+[0m[34m55[0m [0m[34m│[0m                    :value [0m[31mcurrent-brightness[0m 
+   [0m[34m│[0m                           [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+ 2024-03-12T14:38:18.595Z [0m[32mINFO [0m [0m[1meww::server            [0m > Shutting down eww daemon...
+ 2024-03-12T14:38:18.595Z [0m[32mINFO [0m [0m[1meww::app               [0m > Received kill command, stopping server!
+ 2024-03-12T14:38:18.595Z [0m[32mINFO [0m [0m[1meww::app               [0m > Closing gtk window bar
+ 2024-03-12T14:38:18.595Z [0m[32mINFO [0m [0m[1meww::server            [0m > main application thread finished
+
+┏━━━━━━━━━━━━━━━━━━━━━━━┓
+┃Initializing eww daemon┃
+┗━━━━━━━━━━━━━━━━━━━━━━━┛
+    
+ 2024-03-14T07:44:06.677Z [0m[32mINFO [0m [0m[1meww::app   [0m > Opening window bar as 'bar'
+ 2024-03-14T07:44:06.678Z [0m[32mINFO [0m [0m[1meww::ipc_server[0m > IPC server initialized
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute wrap[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:147:26
+    [0m[34m│[0m
+[0m[34m147[0m [0m[34m│[0m             (button :class "song" [0m[33m:wrap[0m "true" :onclick "~/.config/eww/bar/scripts/pop music" song)
+    [0m[34m│[0m                                   [0m[33m─────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute oreintation[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:151:50
+    [0m[34m│[0m
+[0m[34m151[0m [0m[34m│[0m           (box :vexpand "false" :hexpand "false" [0m[33m:oreintation[0m "h" 
+    [0m[34m│[0m                                                  [0m[33m────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:117:13
+    [0m[34m│[0m
+[0m[34m117[0m [0m[34m│[0m               :value [0m[31mvolume_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+ 2024-03-14T07:44:06.687Z [0m[31mERROR[0m [0m[1meww::error_handling_ctx[0m > Error while updating UI after state change
+
+Caused by:
+    <data>:1:11'' is not a valid color name
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute limit-width[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:44:79
+   [0m[34m│[0m
+[0m[34m44[0m [0m[34m│[0m                 (button :class "module-wif" :onclick "networkmanager_dmenu" :wrap "false" [0m[33m:limit-width[0m 12 :style "color: ${COL_WLAN};" WLAN_ICON)
+   [0m[34m│[0m                                                                                           [0m[33m────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute wrap[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:44:65
+   [0m[34m│[0m
+[0m[34m44[0m [0m[34m│[0m                 (button :class "module-wif" :onclick "networkmanager_dmenu" [0m[33m:wrap[0m "false" :limit-width 12 :style "color: ${COL_WLAN};" WLAN_ICON)
+   [0m[34m│[0m                                                                             [0m[33m─────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute orientation[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:50:6
+   [0m[34m│[0m
+[0m[34m50[0m [0m[34m│[0m               [0m[33m:orientation[0m "h"
+   [0m[34m│[0m               [0m[33m────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:60:39
+   [0m[34m│[0m
+[0m[34m60[0m [0m[34m│[0m             (circular-progress :value [0m[31mbattery[0m
+   [0m[34m│[0m                                       [0m[31m───────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute limit-width[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:65:17
+   [0m[34m│[0m
+[0m[34m65[0m [0m[34m│[0m                 [0m[33m:limit-width[0m 2
+   [0m[34m│[0m                 [0m[33m────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute show_truncated[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:67:17
+   [0m[34m│[0m
+[0m[34m67[0m [0m[34m│[0m                 [0m[33m:show_truncated[0m false
+   [0m[34m│[0m                 [0m[33m───────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute wrap[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:69:17
+   [0m[34m│[0m
+[0m[34m69[0m [0m[34m│[0m                 [0m[33m:wrap[0m false
+   [0m[34m│[0m                 [0m[33m─────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:75:39
+   [0m[34m│[0m
+[0m[34m75[0m [0m[34m│[0m             (circular-progress :value [0m[31mmemory[0m
+   [0m[34m│[0m                                       [0m[31m──────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute show_truncated[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:83:17
+   [0m[34m│[0m
+[0m[34m83[0m [0m[34m│[0m                 [0m[33m:show_truncated[0m false
+   [0m[34m│[0m                 [0m[33m───────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute wrap[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:84:17
+   [0m[34m│[0m
+[0m[34m84[0m [0m[34m│[0m                 [0m[33m:wrap[0m false
+   [0m[34m│[0m                 [0m[33m─────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: Unknown attribute limit-width[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:80:17
+   [0m[34m│[0m
+[0m[34m80[0m [0m[34m│[0m                 [0m[33m:limit-width[0m 2
+   [0m[34m│[0m                 [0m[33m────────────[0m [0m[33mgiven here[0m
+
+
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.34077: numero non valido
+
+
+ 2024-03-14T07:44:06.846Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 15: bspc: comando non trovato
+ 2024-03-14T07:44:06.856Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 16: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+ 2024-03-14T07:44:06.869Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 17: bspc: comando non trovato
+ 2024-03-14T07:44:06.888Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 18: bspc: comando non trovato
+ 2024-03-14T07:44:06.904Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 19: bspc: comando non trovato
+ 2024-03-14T07:44:06.926Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 20: bspc: comando non trovato
+ 2024-03-14T07:44:06.938Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 23: bspc: comando non trovato
+ 2024-03-14T07:44:06.948Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 24: bspc: comando non trovato
+ 2024-03-14T07:44:06.957Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 25: bspc: comando non trovato
+ 2024-03-14T07:44:06.967Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 26: bspc: comando non trovato
+ 2024-03-14T07:44:06.974Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 27: bspc: comando non trovato
+ 2024-03-14T07:44:06.980Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 28: bspc: comando non trovato
+ 2024-03-14T07:44:06.987Z [0m[33mWARN [0m [0m[1meww::script_var_handler[0m > stderr of `workspace`: scripts/workspace: riga 54: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: bspc: comando non trovato
+/bin/sh: riga 1: bspc: comando non trovato
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 33: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 28: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 37: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+closed
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.45793: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/home/flavio/.config/eww/bar/scripts/pop: riga 33: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 28: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/home/flavio/.config/eww/bar/scripts/pop: riga 53: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 48: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: bspc: comando non trovato
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.31288: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: bspc: comando non trovato
+/bin/sh: riga 1: bspc: comando non trovato
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 37: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+closed
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: networkmanager_dmenu: comando non trovato
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+scripts/pop: riga 74: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+scripts/pop: riga 69: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.36867: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/home/flavio/.config/eww/bar/scripts/pop: riga 57: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+closed
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.46351: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.40214: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.49141: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+/bin/sh: riga 1: /home/flavio/.local/bin/eww/eww: File o directory non esistente
+[0m[1m[38;5;11mwarning[0m[1m: The script for the `memory`-variable exited unsuccessfully[0m
+   [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:10:33
+   [0m[34m│[0m
+[0m[34m10[0m [0m[34m│[0m (defpoll memory :interval "15s" [0m[33m"scripts/memory"[0m)
+   [0m[34m│[0m                                 [0m[33m────────────────[0m [0m[33mDefined here[0m
+   [0m[34m│[0m
+   [0m[34m→[0m Failed with output:
+     scripts/memory: riga 3: printf: 8.36867: numero non valido
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/flavio/.config/eww/bar/eww.yuck:132:13
+    [0m[34m│[0m
+[0m[34m132[0m [0m[34m│[0m               :value [0m[31mbrightness_percent[0m
+    [0m[34m│[0m                      [0m[31m──────────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
