@@ -10,4 +10,4 @@
 
 sorry for italian names...
 
-**!** I'm not a programmer, code is very buisy, use it at your own risk :)
+**!** I'm not a programmer, code is very messy, use it at your own risk :)
