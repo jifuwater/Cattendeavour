@@ -8,4 +8,5 @@
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 
 sorry for italian names...
+
 **!** I'm not a programmer, code is very buisy, use it at your own risk :)
