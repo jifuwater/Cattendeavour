@@ -43,6 +43,7 @@ rm local
 echo 0 >> local                                                                                    
 rm value
 echo 0 >> value
+exit 1
 fi 
 ./contdown.sh   
 fi
