@@ -1,5 +1,6 @@
 # Cattendeavour
 ![Desktop](desk.png)
+![Desktop](bar.png)
 ## Setup:
 **EndeavourOs i3** is the base of my setup
 * To make wallpaper button work: move wallpaper folder to **~/.config/**
