@@ -9,4 +9,3 @@
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 * Install rofi-todo
 
-sorry for italian names...
