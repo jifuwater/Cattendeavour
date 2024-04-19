@@ -1,7 +1,7 @@
 # Cattendeavour
 ![Desktop](rofi_foto.jpg)
 ## Setup:
-![Desktop](bar.png)
+![Desktop](barra.png)
 **EndeavourOs i3** is the base of my setup
 * Make all files on i3/scripts folder executable (chmod +x)
 * To make wallpaper button work: move wallpaper folder to **~/.config/**
