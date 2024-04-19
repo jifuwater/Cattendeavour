@@ -2,7 +2,7 @@
 ![Desktop](rofi_foto.jpg)
 ## Setup:
 ![Desktop](barra.png)
-**EndeavourOs i3** is the base of my setup (or just install i3-blocks, feh, maim and scrot)
+**EndeavourOs i3** is the base of my setup (or just install i3-blocks, feh, maim, scrot, rofi)
 * Make all files on i3/scripts folder executable (chmod +x)
 * To make wallpaper button work: move wallpaper folder to **~/.config/**
 * **I created a timer** (for i3blocks): use scroll weel to change => left click to start => left to stop
