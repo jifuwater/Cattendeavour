@@ -1,5 +1,5 @@
 # Cattendeavour
-![Desktop](desk.png)
+![Desktop](rofi_foto.jpg)
 ## Setup:
 ![Desktop](bar.png)
 **EndeavourOs i3** is the base of my setup
