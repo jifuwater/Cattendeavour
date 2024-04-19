@@ -9,3 +9,4 @@
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 * [icons](https://github.com/ljmill/catppuccin-icons)
+* use Thunar for file
