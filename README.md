@@ -10,4 +10,5 @@
 * **I created a timer** (for i3blocks): use scroll weel to change => left click to start => left to stop
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 * [icons](https://github.com/ljmill/catppuccin-icons)
-* use Thunar for file ; floorp for web.
+* use Thunar for file ; floorp for web. 
+* [cursor](https://github.com/catppuccin/cursors) pick on release  " Catppuccin-Mocha-Lavender-Cursors.zip " 
