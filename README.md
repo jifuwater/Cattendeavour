@@ -2,6 +2,7 @@
 ![Desktop](rofi_foto.jpg)
 ## Setup:
 ![Desktop](barra.png)
+
 **EndeavourOs i3** is the base of my setup (or just install i3-blocks, feh, maim, scrot, rofi, nm-applet)
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 * Make all files on i3/scripts && rofi/rofitodo.sh executable (chmod +x [file])
