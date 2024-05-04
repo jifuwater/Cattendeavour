@@ -13,6 +13,7 @@ function remove_todo() {
     if [[ ! -z "$DONE_FILE" ]]; then
     	echo "${*}" >> "${DONE_FILE}"
     fi
+    #echo "${*}" | xclip -selection clipboard 
     sed -i "/^${*}$/d" "${TODO_FILE}"
 }
 

@@ -52,7 +52,7 @@ function show_volume_notif {
 
 # Displays a brightness notification using dunstify
 function show_brightness_notif {
-    brightness=$(get_brightness)
+	brightness=$(($(get_brightness)*100/255))
     get_brightness_icon
     dunstify -t 1000 -r 2593 -u normal "$brightness_icon $brightness%" -h int:value:$brightness -h string:hlcolor:$bar_color
 }

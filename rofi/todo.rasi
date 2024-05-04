@@ -19,10 +19,10 @@ window {
     background-color: @background;
     border:           2;
     padding:          5;
-    width:      220px;
+    width:      300px;
     border-color: 	#89b4fa;
-    y-offset:       -395;
-    x-offset:       825;
+    y-offset:       -400;
+    x-offset:       785;
 }
 listview {
     lines:   5;

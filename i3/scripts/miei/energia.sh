@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-a=1
+a=0
 path=~/.config/i3/scripts/miei/energia.sh  
 
 if [ $BLOCK_BUTTON == 1 ]

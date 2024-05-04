@@ -74,18 +74,37 @@ volume() {
 format() {
   
   perl_filter='if (/.*\[(\d+%)\] (\[(-?\d+.\d+dB)\] )?\[(on|off)\]/)'
-  perl_filter+='{CORE::say $4 eq "off" ? "no " : "'
+  perl_filter+='{CORE::say $4 eq "off" ? "0%" : "'
   # If dB was selected, print that instead
   perl_filter+=$([[ $STEP = *dB ]] && echo '$3' || echo '$1')
   perl_filter+='"; exit}'
   output=$(perl -ne "$perl_filter")
-  echo "$LABEL $output"
+  valore=${output::-1}
+# basandomi sul valore di output cambio icona
+if [ "$valore" -eq "0" ]; then
+  echo " "
+  echo ""
+  echo "#f38ba8"
+else
+
+if [ "$valore" -le "20" ]; then
+  echo " $output"
+fi
+if [ "$valore" -le "40" ] && [ "$valore" -gt "20" ]; then
+  echo " $output"
+fi
+if [ "$valore" -gt "40" ]; then
+  echo "  $output"
+fi
+fi
 }
 
 #------------------------------------------------------------------------
 
 case $BLOCK_BUTTON in
   1) amixer $AMIXER_PARAMS -q -D $MIXER sset $SCONTROL $(capability) toggle ;;  # right click, mute/unmute
+  3) pavucontrol;;
+
   4) amixer $AMIXER_PARAMS -q -D $MIXER sset $SCONTROL $(capability) ${STEP}+ unmute ;; # scroll up, increase
   5) amixer $AMIXER_PARAMS -q -D $MIXER sset $SCONTROL $(capability) ${STEP}- unmute ;; # scroll down, decrease
 esac

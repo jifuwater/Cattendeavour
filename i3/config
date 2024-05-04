@@ -49,14 +49,15 @@ workspace_layout default
 ##############################
 
 #border indicator on windows:
-new_window pixel 1
+default_border pixel 1
 exec --no-startup-id thunar --daemon
 exec --no-startup-id flatpak run com.github.vladimiry.ElectronMail
+exec --no-startup-id "libinput-gestures-setup start"
 # thin borders
 # hide_edge_borders both
 
 # Set inner/outer gaps
-gaps inner 13
+gaps inner 10 
 gaps outer 0 
 
 # show window title bars (not officially supported with i3gaps)
@@ -239,7 +240,7 @@ bindsym $mod+f fullscreen toggle
 bindsym $mod+s layout stacking
 bindsym $mod+g layout tabbed
 #bindsym $mod+e layout toggle split
-bindsym $mod+t layout toggle 
+bindsym $mod+t layout toggle split
 
 
 # toggle tiling / floating
@@ -288,7 +289,7 @@ bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 ## App shortcuts
 bindsym $mod+w exec --no-startup-id /usr/bin/firefox
 bindsym $mod+n exec --no-startup-id rofi -config ~/.config/rofi/todo.rasi -modi Todo:~/.config/rofi/rofitodo.sh -show Todo
-bindsym Print exec --no-startup-id maim $HOME/Immagini/Schermate/$(date +"%Y-%m-%d-%T").png && notify-send "Screenshot saved to ~/$(date +"%Y-%m-%d-%T")-screenshot.png"
+bindsym Print exec --no-startup-id grim $HOME/Immagini/Schermate/$(date +"%Y-%m-%d-%T").png && notify-send "Screenshot saved to ~/$(date +"%Y-%m-%d-%T")-screenshot.png"
 bindsym --release Shift+Print exec --no-startup-id $HOME/.config/i3/scripts/miei/schermata.sh 
 bindsym $mod+Shift+p exec --no-startup-id ~/.config/i3/scripts/power-profiles
 
@@ -298,16 +299,16 @@ bindsym $mod+Shift+p exec --no-startup-id ~/.config/i3/scripts/power-profiles
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
-set $ws4 "4"
-set $ws5 "5"
-set $ws6 "6"
-set $ws7 "7"
-set $ws8 "8"
-set $ws9 "9"
-set $ws10 "10"
+set $ws1 1
+set $ws2 2
+set $ws3 3
+set $ws4 4
+set $ws5 5
+set $ws6 6
+set $ws7 7
+set $ws8 8
+set $ws9 9
+set $ws10 10
 
 # use workspaces on different displays:
 # where you have to replace VGA-0/HDMI-0 with the names for your displays
@@ -374,8 +375,8 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 # if enabled you should comment welcome app.
 # https://github.com/jceb/dex
 #exec --no-startup-id dex -a -s /etc/xdg/autostart/:~/.config/autostart/
-exec --no-startup-id dex --autostart --environment i3
-
+exec --no-startup-id dex --autostart --environment i3 
+#exec dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK
 # start welcome app
 #exec --no-startup-id sh /usr/share/endeavouros/scripts/welcome --startdelay=3 
 
@@ -391,7 +392,6 @@ exec --no-startup-id dex --autostart --environment i3
 # start a script to setup displays
 # uncomment the next line, use arandr to setup displays and save the file as monitor:
 exec --no-startup-id ~/.screenlayout/monitor.sh
-
 # set wallpaper
 # exec --no-startup-id sleep 2 && nitrogen --restore
 exec_always --no-startup-id sleep 1 && feh --bg-fill $HOME/.config/sfondo.jpg
@@ -402,6 +402,11 @@ exec --no-startup-id xset s off
 
 # disable power saving (for example if using xscreensaver)
 exec --no-startup-id xset -dpms
+
+#blur enable
+#blur_xray enable
+#blur_passes 2
+#blur_radius 5
 
 # use xautolock to use autosuspend rules for mobile devices
 # https://wiki.archlinux.org/title/Session_lock#xautolock
@@ -451,6 +456,7 @@ exec --no-startup-id /usr/bin/dunst
 ##################
 
 # set floating (nontiling) for apps needing it
+
 for_window [class="Yad" instance="yad"] floating enable
 for_window [class="Galculator" instance="galculator"] floating enable
 for_window [class="Blueberry.py" instance="blueberry.py"] floating enable
@@ -463,10 +469,14 @@ for_window [class="Blueberry.py" instance="blueberry.py"] floating enable
 for_window [class="Bluetooth-sendto" instance="bluetooth-sendto"] floating enable
 for_window [class="Pamac-manager"] floating enable
 for_window [window_role="About"] floating enable
+#for_window [title=".*"] opacity 1
+#for_window [title="^Startpage Search Results – Ablaze Floorp$"] opacity 0.9 
 
-# set border of floating window
-for_window [class="urxvt"] border pixel 1
-exec --no-startup-id nm-applet --sm-disable
+
+
+
+
+exec_always --no-startup-id nm-applet --indicator 
 exec --no-startup-id blueman-applet 
 # set size of floating window
 #for_window [window_role="(?i)GtkFileChooserDialog"] resize set 640 480 #to set size of file choose dialog
@@ -488,7 +498,7 @@ set $lightblue	        #eba0ac
 set $urgentred		#f38ba8	
 set $white		#cdd6f4	
 set $black		#1e1e2e  	
-set $purple		#e345ff
+set $purple		#6870A1
 set $darkgrey		#383c4a
 set $grey		#b0b5bd
 set $mediumgrey		#8b8b8b
@@ -497,10 +507,10 @@ set $yellowbrown	#e1b700
 # define colors for windows:
 #class		        	border		bground		text		indicator	child_border
 
-client.focused		    	$darkblue       $black          $white		$darkgray       #b4befe 
-client.unfocused	    	#6870A1	 	 $black   	$grey		$darkgrey	$darkgrey
-client.focused_inactive		$black   	$black  	$grey		$darkgrey	$darkgrey
-client.urgent		    	$urgentred	$urgentred	$white		$yellowbrown	$yellowbrown
+client.focused		    	$darkblue       $black          $white		$darkblue	$darkblue 
+client.unfocused	    	$purple	 	 $black   	$grey		$darkgrey		$darkgrey
+client.focused_inactive		$black   	$black  	$grey		$darkgrey		$darkgrey
+client.urgent		    	$urgentred	$urgentred	$white		$darkblue	$yellowbrown
 ############################################
 # bar settings (input comes from i3blocks) #
 ############################################
@@ -528,13 +538,13 @@ strip_workspace_numbers yes
 		    colors {
 		    separator          $purple
 		  #  background         $darkgrey
-		    background	#1e1e2e  
+		    background	#1e1e2eD9
 		    statusline         $white
-#                          		border 		        bg		txt		indicator
-		focused_workspace	#1e1e2e	   		#45475a 	#cdd6f4 	$purple
-		active_workspace	#1e1e2e 	      	#1e1e2e 	#a6adc8		$purple
-		inactive_workspace	#1e1e2e   		#1e1e2e		#7f849c		$purple
-		urgent_workspace	#1e1e2e	    		#1e1e2e  	#a6e3a1  	$purple
+#                          		border 		        bg		txt	
+		focused_workspace	#1e1e2eD9		#1e1e2eD9	#b4befe 	
+		active_workspace	#1e1e2eD9	      	#1e1e2eD9 	#a6adc8		
+		inactive_workspace	#1e1e2eD9 		#1e1e2eD9	#7f849c		
+		urgent_workspace	#1e1e2eD9    		#1e1e2eD9  	#a6e3a1  	
 
 	}
 }
@@ -560,13 +570,13 @@ strip_workspace_numbers yes
 		    colors {
 		    separator          $purple
 		  #  background         $darkgrey
-		    background	#1e1e2e  
+		    background	#1e1e2eD9 
 		    statusline         $white
-#                          		border 		        bg		txt		indicator
-		focused_workspace	#1e1e2e	   		#45475a 	#cdd6f4 	$purple
-		active_workspace	#1e1e2e 	      	#1e1e2e 	#a6adc8		$purple
-		inactive_workspace	#1e1e2e   		#1e1e2e		#7f849c		$purple
-		urgent_workspace	#1e1e2e	    		#1e1e2e  	#a6e3a1  	$purple
+#                          		border 		        bg		txt		
+		focused_workspace	#1e1e2eD9	   	#1e1e2eD9 	#cdd6f4 	
+		active_workspace	#1e1e2eD9 	      	#1e1e2eD9 	#a6adc8		
+		inactive_workspace	#1e1e2eD9   		#1e1e2eD9	#7f849c		
+		urgent_workspace	#1e1e2eD9	    	#1e1e2eD9  	#a6e3a1  	
 	}
 }
 #bindsym $mod+p bar mode dock bar-tray; bar mode invisible bar-primary
@@ -579,7 +589,7 @@ strip_workspace_numbers yes
 ## rofi bindings fancy application menu ($mod+d /F9 optional disabled)
 
 bindsym $mod+space exec --no-startup-id rofi -modi drun -show drun \
-		-config ~/.config/rofi/rofidmenu.rasi
+		-config ~/.config/rofi/rofidmenu.rasi 
 
 #bindsym F9 exec --no-startup-id rofi -modi drun -show drun \
 #		-config ~/.config/rofi/rofidmenu.rasi

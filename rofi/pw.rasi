@@ -20,8 +20,8 @@ window {
     border:           2;
     padding:          5;
     width:      220px;
-    border-color:#f38ba8;
-    y-offset:       -407;
+    border-color:#b4befe;
+    y-offset:       -412;
     x-offset:       825;
 }
 listview {
@@ -67,11 +67,11 @@ element.normal.urgent {
 }
 element.normal.active {
     background-color: @active-background;
-    text-color:       @active-foreground;
+    text-color:       #b4befe;
 }
 element.selected.normal {
     background-color: @selected-normal-background;
-    text-color:       @selected-normal-foreground;
+    text-color:       #b4befe;
 }
 element.selected.urgent {
     background-color: @selected-urgent-background;
