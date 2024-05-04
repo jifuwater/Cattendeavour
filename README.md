@@ -12,3 +12,7 @@
 * [icons](https://github.com/ljmill/catppuccin-icons)
 * use Thunar for file ; floorp for web. 
 * [cursor](https://github.com/catppuccin/cursors) pick on release  " Catppuccin-Mocha-Lavender-Cursors.zip " 
+## News:
+* Volume icon more interactive (right click for pavcontroll)
+* Brightness from 0-100%
+* I tried moving to swayfx but nm-applet not work
