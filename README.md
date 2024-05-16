@@ -13,6 +13,13 @@
 * use Thunar for file ; floorp for web. 
 * [cursor](https://github.com/catppuccin/cursors) pick on release  " Catppuccin-Mocha-Lavender-Cursors.zip " 
 ## News:
+new
+
+* timer and pomodoro integrated, right click to change
+* a fedora update module
+
+old
+
 * Volume icon more interactive (right click for pavcontroll)
 * Brightness from 0-100%
 * I tried moving to swayfx but nm-applet not work
