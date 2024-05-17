@@ -50,3 +50,6 @@ if [ "$level" -lt "10" ]; then
 	echo ""
 	echo "#f38ba8"
 fi
+if [ "$level" -lt "6" ]; then
+notify-send -u critical -t 5000 "!  battery to 5%"
+fi
