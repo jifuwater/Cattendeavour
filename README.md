@@ -1,7 +1,7 @@
 # Cattendeavour
-![Desktop](rofi_foto.jpg)
+![Desktop](combined.png)
 ## Setup:
-![Desktop](barra.png)
+![Desktop](bar.png)
 
 **EndeavourOs i3** is the base of my setup (or just install i3-blocks, feh, maim, scrot, rofi, nm-applet, power-profiles-daemon)
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads)
