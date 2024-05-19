@@ -17,6 +17,7 @@ new
 
 * timer and pomodoro integrated, right click to change
 * a fedora update module
+* Conservation ideapad Lenovo module i3/scripts/miei/full_charge.sh
 
 old
 
