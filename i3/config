@@ -53,6 +53,7 @@ default_border pixel 1
 exec --no-startup-id thunar --daemon
 exec --no-startup-id flatpak run com.github.vladimiry.ElectronMail
 exec --no-startup-id "libinput-gestures-setup start"
+exec_always --no-startup-id "echo $PASSW | sshfs -p 8022 u0_a114@100.65.217.31:/storage/B49B-1F11/Android/data/com.termux/files /home/flavio/server -o password_stdin"
 # thin borders
 # hide_edge_borders both
 
