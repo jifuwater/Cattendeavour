@@ -12,7 +12,7 @@
 * [icons](https://github.com/ljmill/catppuccin-icons)
 * use Thunar for file, firefox for web. 
 * [cursor](https://github.com/catppuccin/cursors) pick on release  " Catppuccin-Mocha-Lavender-Cursors.zip " 
-# If you have a pc
+### If you have a pc
 ![Desktop](barpc.png)
 * Delete i3, rename i3_pc -> i3
 ## News:
