@@ -1,4 +1,4 @@
-# Cattendeavour
+# Cattendeavour 🐈
 ![Desktop](combined.png)
 ## Setup:
 ![Desktop](bar.png)
