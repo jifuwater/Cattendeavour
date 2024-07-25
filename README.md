@@ -3,7 +3,7 @@
 ## Setup:
 ![Desktop](bar.png)
 
-**EndeavourOs i3** is the base of my setup (or just install i3-blocks, feh, maim, scrot, rofi, nm-applet, power-profiles-daemon)
+**EndeavourOs i3** is the base of my setup (or install i3-blocks, feh, maim, scrot, rofi, nm-applet, power-profiles-daemon,pulseaudio,networkmanager, blueman)
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads), **pacman -S ttf-firacode-nerd**
 * Make all files on i3/scripts , i3/scripts/miei, rofi/rofitodo.sh executable (chmod +x [file])
 * Click wallpaper icon on bar. To make wallpaper button work: move wallpaper folder to **~/.config/**
