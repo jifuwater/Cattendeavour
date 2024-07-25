@@ -81,7 +81,7 @@ format() {
 #  output=$(/home/flavio/.config/i3/scripts/miei/volcolor.sh) 
 #  valore=${output::-1}
 # basandomi sul valore di output cambio icona
-/home/flavio/.config/i3/scripts/miei/volcolor.sh
+~/.config/i3/scripts/miei/volcolor.sh
 }
 
 #------------------------------------------------------------------------
