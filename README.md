@@ -7,7 +7,7 @@
 * Install [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads), **pacman -S ttf-firacode-nerd**
 * Make all files on i3/scripts , i3/scripts/miei, rofi/rofitodo.sh executable (chmod +x [file])
 * Click wallpaper icon on bar. To make wallpaper button work: move wallpaper folder to **~/.config/**
-* **I created a timer** (for i3blocks): use scroll weel to change => left click to start => left to stop
+* Timer (for i3blocks): right click pomodoro, use scroll weel to change => left click to start => left to stop
 * gtk theme [Catppuccin](https://aur.archlinux.org/packages/catppuccin-gtk-theme-mocha)
 * [icons](https://github.com/ljmill/catppuccin-icons)
 * use Thunar for file, firefox for web. 
@@ -16,11 +16,9 @@
 
 new
 * energia_3mode.sh script for all powerprofilesctl
-* timer and pomodoro integrated, right click to change
 * a fedora update module
 
 old
-
 * Volume icon more interactive (right click for pavcontroll)
 * Brightness from 0-100%
 * I tried moving to swayfx but nm-applet not work
