@@ -17,7 +17,7 @@
 * Delete i3, rename i3_pc -> i3
 #### Polybar version
 * Delete i3, rename i3_polybar -> i3
-![Desktop](polybar.png)
+![Desktop](vuoto.png)
 
 
 ## News:
