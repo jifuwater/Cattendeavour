@@ -16,9 +16,9 @@
 ![Desktop](barpc.png)
 * Delete i3, rename i3_pc -> i3
 #### Polybar version
-* Delete i3, rename i3_polybar -> i3
 ![Desktop](vuoto.png)
 
+* Delete i3, rename i3_polybar -> i3
 
 ## News:
 
