@@ -19,6 +19,7 @@
 ![Desktop](vuoto.png)
 
 * Install Noto Color Emoji
+* Make polybar/script/* executable
 * Delete i3, rename i3_polybar -> i3
 
 ## News:
