@@ -25,6 +25,7 @@
 ## News:
 
 new
+* Created custom polybar pomodoro and timer modules
 * energia_3mode.sh script for all powerprofilesctl
 * a fedora update module
 
