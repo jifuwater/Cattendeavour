@@ -27,7 +27,6 @@
 new
 * Created custom polybar pomodoro and timer modules
 * energia_3mode.sh script for all powerprofilesctl
-* a fedora update module
 
 old
 * Volume icon more interactive (right click for pavcontroll)
