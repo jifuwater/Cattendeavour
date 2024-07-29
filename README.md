@@ -16,7 +16,7 @@
 ![Desktop](barpc.png)
 * Delete i3, rename i3_pc -> i3
 #### Polybar version
-![Desktop](empty.png)
+![Desktop](vuoto.png)
 
 * Install Noto Color Emoji
 * Make polybar/script/* executable
