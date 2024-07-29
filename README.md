@@ -25,6 +25,7 @@
 ## News:
 
 new
+* Lofi-girl button created for polybar
 * Created custom polybar pomodoro and timer modules
 * energia_3mode.sh script for all powerprofilesctl
 
